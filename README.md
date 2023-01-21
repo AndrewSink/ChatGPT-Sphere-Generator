@@ -1,9 +1,8 @@
 # ChatGPT Sphere Generator
 
-<img width="1289" alt="ChatGPT_Sphere_Generator" src="https://user-images.githubusercontent.com/46334898/213886264-e3be657f-082d-4f23-8c57-b17251700b1a.png">
-
-
 Try it yourself: https://andrewsink.github.io/ChatGPT-Sphere-Generator/
+
+<img width="1289" alt="ChatGPT_Sphere_Generator" src="https://user-images.githubusercontent.com/46334898/213886264-e3be657f-082d-4f23-8c57-b17251700b1a.png">
 
 Just a quick test to see what's possible with the new [OpenAI ChatGPT](https://chat.openai.com/chat) tool! 
 
