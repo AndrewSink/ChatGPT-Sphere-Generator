@@ -8,7 +8,7 @@ Just a quick test to see what's possible with the new [OpenAI ChatGPT](https://c
 
 The script was primarily written by ChatGPT, but I had do some light clean-up (importing libraries, creating the HTML, etc.).
 
-This was made using the following workflow: 
+This was made using the following workflow, using specific prompts for each step: 
 * Creating a simple scene (sphere, gridhelper, camera, etc.) in threejs
 * Adding slider to control number of segments
 * Adding rotation controls
